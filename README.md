@@ -1,7 +1,5 @@
-# Company-Profile-Content
 
-
-## Software Company profile content
+# Software Company profile content
 
 
 
